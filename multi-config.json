@@ -1,3 +1,65 @@
 {
-  "site":[]
+  "site": {
+    "kalodata.com": {
+      "cookies": {
+        "page_session": "014f05f7-7157-4e33-9c44-8497d7cc5f60",
+        "appVersion": "2.0",
+        "deviceType": "pc",
+        "_gcl_aw": "GCL.1763901721.EAIaIQobChMI_Zft-KWIkQMVaFVIAB2dny_mEAAYASAAEgK_BPD_BwE",
+        "_gcl_gs": "2.1.k1$i1763901717$u134601579",
+        "_ga": "GA1.1.303629913.1763901721",
+        "deviceId": "a6a0c5dca32f3aad8493ce2f301868a6",
+        "_tt_enable_cookie": "1",
+        "_ttp": "01KARBRK692TPAKHH6FEYTNKHS_.tt.1",
+        "_fbp": "fb.1.1763901721902.394010004153970246",
+        "_bl_uid": "bzmR7ie0b36pF3jnIj8zkqd269w7",
+        "Hm_lvt_8aa1693861618ac63989ae373e684811": "1763901723",
+        "HMACCOUNT": "39ACAB511D6CFA52",
+        "_c_WBKFRo": "OW7epaFaz7WUMMo4BMRqjyVMVvhEbOgkqtKOxYLq",
+        "_nb_ioWEgULi": "",
+        "_gcl_au": "1.1.842214832.1763901721.811383365.1763901754.1763901798",
+        "SESSION": "MzNjZjUxYzktMjc1Ny00NjExLTlmODMtNjQxMjAwOWQ3ZTFl",
+        "_ga_Q21FRKKG88": "GS2.1.s1764416084$o3$g0$t1764416085$j59$l0$h0",
+        "Hm_lpvt_8aa1693861618ac63989ae373e684811": "1764416089",
+        "_uetsid": "6c4b9580cd1711f0b5035319152157b8",
+        "_uetvid": "cf046490c86911f0bbee3f464dafb631",
+        "_clck": "1ibsbtg%5E2%5Eg1f%5E0%5E2153",
+        "_clsk": "1iy9axk%5E1764416105045%5E1%5E1%5Es.clarity.ms%2Fcollect",
+        "ttcsid": "1764416100371::rkagrHPOApaU9tzZjNpU.3.1764416111177.0",
+        "ttcsid_CM9SHDBC77U4KJBR96OG": "undefined.undefined.1764416111192.1"
+      },
+      "localStorage": {
+        "_uetvid_exp": "Thu, 24 Dec 2026 11:34:53 GMT",
+        "device_uuid": "3f097cd16e3be0714a0bcb6ce6534a3d1764012062186",
+        "topicsLastReferenceTime": "1764416093296",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":3,\"timeouts\":0,\"creationTimeMs\":1764416084672},\"expires\":1772192084672}}",
+        "phonePrefix": "55",
+        "_uetsid": "6c4b9580cd1711f0b5035319152157b8",
+        "lastExternalReferrerTime": "1764416093239",
+        "_uetsid_exp": "Sun, 30 Nov 2025 11:34:53 GMT",
+        "|setting_move_tip": "\"true\"",
+        "currency": "BRL",
+        "_uetvid": "cf046490c86911f0bbee3f464dafb631",
+        "lastExternalReferrer": "empty",
+        "phoneRegion": "BR",
+        "region": "BR",
+        "_l_KPLiPs": "1w0ReKzSAZNm2SUat9EO0fevn2Y9RtOddGwP07BOZp",
+        "guild-video-player-state": "{\"isPlaying\":false,\"currentTime\":0,\"volume\":1,\"isMuted\":false,\"duration\":0,\"isLoading\":true}",
+        "language": "pt-BR",
+        "Hm_lvt_8aa1693861618ac63989ae373e684811": "1795952088685|1763901723"
+      },
+      "sessionStorage": {
+        "Hm_lpvt_8aa1693861618ac63989ae373e684811": "1764416089",
+        "pageListCategory-dateRange": "[\"2025-10-30\",\"2025-11-28\"]",
+        "tt_appInfo": "{\"platform\":\"pc\"}",
+        "pre_pathname": "NULL",
+        "tt_sessionId": "\"6b2ac270-cd17-11f0-9d02-9e26e542ff04::6U0sRWn52h9psQoWt5NN\"",
+        "pageList-cateValue": "{}",
+        "cur_pathname": "/product",
+        "tt_pixel_session_index": "{\"index\":0,\"main\":0}",
+        "_bl_sid": "7kmm5i5Okym76Usw6g68nCgsFdhh",
+        "_cltk": "vetpzh"
+      }
+    }
+  }
 }
