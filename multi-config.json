@@ -2923,6 +2923,36 @@
         "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_primary_window_exists": "true",
         "datafast_pageview_state": "{\"time\":1764536492247,\"url\":\"https://app.verbatik.com/app/speech-synthesis/text-to-speech\"}"
       }
+    },
+    "verbatik_export": {
+      "cookies": {
+        "_fbp": "fb.1.1758981368141.385378000967458277",
+        "_ga": "GA1.1.829368413.1758981368",
+        "intercom-session-eismihdl": "VnZLZlBmK0dsaTczbDRISGVCYTdPSEpoZDkrQXE1bUF0OEFKb2NDMkNxOTNUWHV1VmJOYzMrMXo2RDlJcTR1cVZCQS9BVFo2MFhpR0hSaThmaVhydEJpQ2tBMjdNUmNYTkdiVVhJd2F2Tkk9LS1iUUkvRXcwTWEvY1kyV3dpenlwUUN3PT0=--b369a123f58af7109f832ed4671d0301f6603021",
+        "intercom-device-id-eismihdl": "60a68132-9a13-4dea-bf6c-790c444578f1",
+        "datafast_visitor_id": "d2fa5721-c003-41c1-a935-5e454e4d8685",
+        "_clck": "3oicke%5E2%5Efzy%5E1%5E2096",
+        "_clsk": "1fapkq2%5E1759845803319%5E4%5E1%5Ea.clarity.ms%2Fcollect",
+        "datafast_session_id": "s2af78a17-a079-4e91-99dd-33e5d89d4900",
+        "_gcl_au": "1.1.537256190.1758981368.2139073446.1763329855.1763332971",
+        "_ga_3QZ4CHRCY2": "GS2.1.s1764537255$o142$g1$t1764537269$j46$l0$h0",
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_posthog": "%7B%22distinct_id%22%3A%22cmg2bwzjk002gjgyiobs5x45l%22%2C%22%24sesid%22%3A%5B1764537298502%2C%22019ad69d-c704-762b-8fd5-0715a5d5d654%22%2C1764537255684%5D%2C%22%24epp%22%3Atrue%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22https%3A%2F%2Faccounts.google.com%2F%22%2C%22u%22%3A%22https%3A%2F%2Ftts.verbatik.com%2Fuser%2Fsubscriptions%22%7D%7D"
+      },
+      "localStorage": {
+        "lastExternalReferrerTime": "1764537269614",
+        "eventQueue": "[]",
+        "topicsLastReferenceTime": "1764537269628",
+        "lastExternalReferrer": "empty",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":2,\"timeouts\":0,\"creationTimeMs\":1764537269402},\"expires\":1772313269402}}",
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_posthog": "{\"distinct_id\":\"cmg2bwzjk002gjgyiobs5x45l\",\"$sesid\":[1764537298502,\"019ad69d-c704-762b-8fd5-0715a5d5d654\",1764537255684],\"$epp\":true,\"$initial_person_info\":{\"r\":\"https://accounts.google.com/\",\"u\":\"https://tts.verbatik.com/user/subscriptions\"},\"$initialization_time\":\"2025-11-30T21:14:29.279Z\",\"$configured_session_timeout_ms\":1800000,\"$client_session_props\":{\"sessionId\":\"019ad69d-c704-762b-8fd5-0715a5d5d654\",\"props\":{\"r\":\"$direct\",\"u\":\"https://app.verbatik.com/app/speech-synthesis/text-to-speech\"}},\"$capture_rate_limit\":{\"tokens\":99,\"last\":1764537274612},\"$user_id\":\"cmg2bwzjk002gjgyiobs5x45l\",\"$had_persisted_distinct_id\":true,\"$device_id\":\"cmg2bwzjk002gjgyiobs5x45l\",\"$stored_person_properties\":{\"email\":\"verbatikclonevoz@gmail.com\"},\"$session_recording_enabled_server_side\":true,\"$console_log_recording_enabled_server_side\":true,\"$session_recording_network_payload_capture\":{\"capturePerformance\":{\"network_timing\":true,\"web_vitals\":true,\"web_vitals_allowed_metrics\":null}},\"$session_recording_masking\":null,\"$session_recording_canvas_recording\":{},\"$replay_sample_rate\":null,\"$replay_minimum_duration\":null,\"$replay_script_config\":null,\"$autocapture_disabled_server_side\":false,\"$heatmaps_enabled_server_side\":true,\"$web_vitals_enabled_server_side\":true,\"$web_vitals_allowed_metrics\":null,\"$exception_capture_enabled_server_side\":true,\"$error_tracking_suppression_rules\":[],\"$dead_clicks_enabled_server_side\":false,\"$active_feature_flags\":[\"survey-targeting-255732271e-custom\"],\"$enabled_feature_flags\":{\"survey-targeting-255732271e-custom\":true},\"$feature_flag_payloads\":{},\"$feature_flag_details\":{\"survey-targeting-255732271e-custom\":{\"key\":\"survey-targeting-255732271e-custom\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":86886,\"version\":5,\"description\":null,\"payload\":null}}},\"$feature_flag_request_id\":\"de71c127-2be3-46f5-82f2-5833aab560b2\",\"$surveys\":[]}",
+        "apolloAnonId": "798e4115-968b-44c8-8dbd-946aae367e59"
+      },
+      "sessionStorage": {
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_window_id": "\"019ad69d-c704-762b-8fd5-07164bcb23fc\"",
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_posthog": "{\"$referrer\":\"$direct\",\"$referring_domain\":\"$direct\",\"$sdk_debug_replay_remote_trigger_matching_config\":null,\"$sdk_debug_replay_event_trigger_status\":\"trigger_disabled\",\"$sdk_debug_replay_url_trigger_status\":\"trigger_disabled\",\"$sdk_debug_replay_linked_flag_trigger_status\":\"trigger_disabled\",\"$session_recording_start_reason\":\"recording_initialized\"}",
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_primary_window_exists": "true",
+        "datafast_pageview_state": "{\"time\":1764537255770,\"url\":\"https://app.verbatik.com/app/speech-synthesis/text-to-speech\"}"
+      }
     }
   }
 }
