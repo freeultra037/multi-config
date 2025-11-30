@@ -756,6 +756,43 @@
       "sessionStorage": {
         "flow-create-voice": "{\"type\":\"speech\",\"prompt\":null,\"enhance\":false,\"voiceId\":null,\"sfxVoiceId\":null,\"style\":60,\"speed\":1.1,\"stability\":30,\"similarityBoost\":90}"
       }
+    },
+    "runwayml.com": {
+      "cookies": {
+        "runway_consent": "%7B%22v%22%3A1%2C%22analytics%22%3Atrue%2C%22ads%22%3Atrue%2C%22gpc%22%3Afalse%2C%22ts%22%3A1764160599220%7D",
+        "__stripe_mid": "a6d08572-c51d-418b-82b7-cd9ce7fd9ae98f0ed6",
+        "unify_session_id": "2d4718e9-a973-4ffb-ab23-3c8fde79c39e",
+        "IndrX0tYeDNQRUs1XzNMZTNlUm5MSkVYTFJYcFBrNlQ0ejhxNnMyZ0c2ZVpzX3VuaWZ5X3Nlc3Npb25faWQi": "IjJkNDcxOGU5LWE5NzMtNGZmYi1hYjIzLTNjOGZkZTc5YzM5ZSI=",
+        "unify_visitor_id": "b3c25700-432d-426b-bd32-c4fa3bbe4599",
+        "IndrX0tYeDNQRUs1XzNMZTNlUm5MSkVYTFJYcFBrNlQ0ejhxNnMyZ0c2ZVpzX3VuaWZ5X3Zpc2l0b3JfaWQi": "ImIzYzI1NzAwLTQzMmQtNDI2Yi1iZDMyLWM0ZmEzYmJlNDU5OSI=",
+        "_gcl_au": "1.1.555338218.1764160821",
+        "_ga": "GA1.1.17078221.1764160821",
+        "_ga_CPKYPL7M14": "GS2.1.s1764160821$o1$g0$t1764160832$j49$l0$h0",
+        "__stripe_sid": "f768b0b7-0627-4b7c-99c4-fdd5f584aeb88469d3"
+      },
+      "localStorage": {
+        "ab.storage.serverConfig.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"s\":\"4.8.0\",\"l\":1739457103,\"e\":[],\"a\":[],\"p\":[],\"m\":21600,\"v\":\"BHjOBZQ_0S-Eo2jZFpdPnH6eb6hnHZtd_yeq3wqoBC_DT6SfSNdonh8e5Nxm-dsPjxpjfOkqYxlKhQKEfTvcU7g=\",\"c\":{},\"f\":{}}}",
+        "ab.storage.session_id_for_cached_metadata.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":\"8fa51473-61cc-d0b1-cedf-4a4139dfc52d\"}",
+        "ab.storage.sessionId.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"g\":\"8fa51473-61cc-d0b1-cedf-4a4139dfc52d\",\"e\":1764521696948,\"c\":1764519896948,\"l\":1764519896948}}",
+        "RW_USER_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NTA1ODU4OTIsImVtYWlsIjoicnVud2F5cmF0ZWlvZG9taW5hbmRvQGdtYWlsLmNvbSIsImV4cCI6MTc2Njg1ODM2NS4xMywiaWF0IjoxNzY0MjY2MzY1LjEzLCJzc28iOmZhbHNlfQ.LgYHi5ctmdVFO_1suos4nZ_pdOzinwPR8lTb_gr_FtM",
+        "ab.storage.signature.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":\"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGFnZSI6InByb2R1Y3Rpb24iLCJpYXQiOjE3NjQ1MjAxMjEsImV4cCI6MTc2NDUyMzcyMSwiYXVkIjoiYnJhemUiLCJzdWIiOiI1MDU4NTg5MiJ9.GE6j6pUSxseGr8-IbI26fpmhkKAzsLjd8epIa7KTqW01oon6DqwyOy8vK9l1Qw305GvVpsYisOsS9cEPPCWaFNvSg_VBWSCy34Ze-rEWWPIa4ru3jJsSNCrP-cOWvIED0N1p4jakQln5E6CWF09Rav8UapTGaHd5jsJjJXmUK16_8IZbhMFus3it0n1BbvDt6Oei3L-AA5EigM2Sat-I6M1A0a6HGgwhSNVgoj9yagnUJH2iR_GTalryDki6Wp0bs_9vlH4ie2nfF5AA-fAnbH7UIA7Ge3FQxRV1cXPnnFGrqD4aiMYrYTVWUf50Ln6cXcj_c6ei6K4X707CSE6zEg\"}",
+        "loglevel": "WARN",
+        "ab.storage.device.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"browser\":\"Chrome\",\"browser_version\":\"136\",\"os_version\":\"Windows\",\"resolution\":\"1366x768\",\"locale\":\"pt-br\",\"time_zone\":\"America/Sao_Paulo\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36\"}}",
+        "ab.storage.triggers.ts.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":1764519921487}",
+        "rw__lastUsedTeamId": "{\"version\":2,\"lastUsedTeamId\":50585892,\"lastUsedEnterpriseTeamId\":null}",
+        "ab.storage.userId.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"g\":\"50585892\",\"c\":1764266365325,\"l\":1764519896949}}",
+        "ab.storage.sdk_metadata.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":[\"npm\"]}",
+        "ab.storage.deviceId.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"g\":\"919e67f4-c0b3-f7f9-d8de-b513ba269544\",\"c\":1764266365312,\"l\":1764519896949}}",
+        "RW_PROD_localAppleUserRecords": "{}",
+        "ab.storage.messagingSessionStart.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":1764519896950}",
+        "ab.storage.triggers.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":[]}",
+        "ab.storage.lastReqToEndpoint.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"d\":1764519921035}}",
+        "PanelGroup:sizes:athena-inputs-panel": "{\"25,30\":[75,25]}",
+        "media-chrome-pref-muted": "false"
+      },
+      "sessionStorage": {
+        "__rw-lgsbm": "Gen-4"
+      }
     }
   }
 }
