@@ -2895,6 +2895,34 @@
       ],
       "localStorage": {},
       "sessionStorage": {}
+    },
+    "verbatik.export": {
+      "cookies": {
+        "datafast_visitor_id": "a8dd1b79-5d1c-4bb1-a6b8-59c6f89f27a5",
+        "_ga": "GA1.1.737350042.1764270306",
+        "_fbp": "fb.1.1764270307075.267022536869742808",
+        "_clck": "1ro7h0w%5E2%5Eg1d%5E0%5E2157",
+        "_clsk": "135kp5v%5E1764270308898%5E1%5E1%5Eq.clarity.ms%2Fcollect",
+        "_gcl_au": "1.1.1755410169.1764270306.255996373.1764270319.1764270504",
+        "datafast_session_id": "sf6368e86-5c22-4af1-9b45-d50435c52da6",
+        "_ga_3QZ4CHRCY2": "GS2.1.s1764536492$o3$g1$t1764536496$j56$l0$h0",
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_posthog": "%7B%22distinct_id%22%3A%22cmihej2a40005o0nj9hytw17c%22%2C%22%24sesid%22%3A%5B1764536515692%2C%22019ad692-1fe4-7fa4-bc58-332a238370f8%22%2C1764536492004%5D%2C%22%24epp%22%3Atrue%2C%22%24initial_person_info%22%3A%7B%22r%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22u%22%3A%22https%3A%2F%2Fverbatik.com%2F%22%7D%7D"
+      },
+      "localStorage": {
+        "lastExternalReferrerTime": "1764536496588",
+        "eventQueue": "[]",
+        "topicsLastReferenceTime": "1764536496602",
+        "lastExternalReferrer": "empty",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":3,\"timeouts\":0,\"creationTimeMs\":1764536496250},\"expires\":1772312496250}}",
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_posthog": "{\"distinct_id\":\"cmihej2a40005o0nj9hytw17c\",\"$sesid\":[1764536515692,\"019ad692-1fe4-7fa4-bc58-332a238370f8\",1764536492004],\"$epp\":true,\"$initial_person_info\":{\"r\":\"https://www.google.com/\",\"u\":\"https://verbatik.com/\"},\"$initialization_time\":\"2025-11-30T21:01:36.118Z\",\"$configured_session_timeout_ms\":1800000,\"$client_session_props\":{\"sessionId\":\"019ad692-1fe4-7fa4-bc58-332a238370f8\",\"props\":{\"r\":\"$direct\",\"u\":\"https://app.verbatik.com/app/speech-synthesis/text-to-speech\"}},\"$capture_rate_limit\":{\"tokens\":99,\"last\":1764536506130},\"$user_id\":\"cmihej2a40005o0nj9hytw17c\",\"$had_persisted_distinct_id\":true,\"$device_id\":\"cmihej2a40005o0nj9hytw17c\",\"$stored_person_properties\":{\"email\":\"membrosdominando@gmail.com\"},\"$session_recording_enabled_server_side\":true,\"$session_recording_network_payload_capture\":{\"capturePerformance\":{\"network_timing\":true,\"web_vitals\":true,\"web_vitals_allowed_metrics\":null}},\"$session_recording_canvas_recording\":{},\"$replay_sample_rate\":null,\"$replay_minimum_duration\":null,\"$autocapture_disabled_server_side\":false,\"$heatmaps_enabled_server_side\":true,\"$web_vitals_enabled_server_side\":true,\"$web_vitals_allowed_metrics\":null,\"$exception_capture_enabled_server_side\":true,\"$error_tracking_suppression_rules\":[],\"$dead_clicks_enabled_server_side\":false,\"$active_feature_flags\":[\"survey-targeting-255732271e-custom\"],\"$enabled_feature_flags\":{\"survey-targeting-255732271e-custom\":true},\"$feature_flag_payloads\":{},\"$feature_flag_details\":{\"survey-targeting-255732271e-custom\":{\"key\":\"survey-targeting-255732271e-custom\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":86886,\"version\":5,\"description\":null,\"payload\":null}}},\"$feature_flag_request_id\":\"e54ab070-97bf-48fc-963e-12d50b57766b\",\"$surveys\":[],\"$console_log_recording_enabled_server_side\":true,\"$session_recording_masking\":null,\"$replay_script_config\":null}",
+        "apolloAnonId": "ac0bb7ee-955a-4e19-bc27-77b8eae02410"
+      },
+      "sessionStorage": {
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_window_id": "\"019ad692-1fe4-7fa4-bc58-332b7fdba5ed\"",
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_posthog": "{\"$referrer\":\"$direct\",\"$referring_domain\":\"$direct\",\"$sdk_debug_replay_remote_trigger_matching_config\":null,\"$sdk_debug_replay_event_trigger_status\":\"trigger_disabled\",\"$sdk_debug_replay_url_trigger_status\":\"trigger_disabled\",\"$sdk_debug_replay_linked_flag_trigger_status\":\"trigger_disabled\",\"$session_recording_start_reason\":\"recording_initialized\"}",
+        "ph_phc_98zz9oRok4C6UbCIBbl6PxCIsSYnljtlH30vopHAvJw_primary_window_exists": "true",
+        "datafast_pageview_state": "{\"time\":1764536492247,\"url\":\"https://app.verbatik.com/app/speech-synthesis/text-to-speech\"}"
+      }
     }
   }
 }
