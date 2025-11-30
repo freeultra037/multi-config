@@ -2264,6 +2264,68 @@
         "_bl_sid": "Lgm0RiUymgn6s872ez2zj129dXbz",
         "_cltk": "ome63b"
       }
+    },
+    "kalodata_export": {
+      "cookies": {
+        "page_session": "129e7d8f-55cc-4723-8f29-29619725f9fa",
+        "SESSION": "ZDk4MGM5M2EtYTc2NS00YTAyLTljOTctYTJkMDYxNmIyNDM0",
+        "_ga": "GA1.1.1160071608.1764508036",
+        "_fbp": "fb.1.1764508036034.338314929156262148",
+        "_clck": "zl1ns8%5E2%5Eg1g%5E0%5E2160",
+        "_bl_uid": "wzmdXis5l5pqzUiphz5Ofp22e035",
+        "appVersion": "2.0",
+        "deviceType": "pc",
+        "deviceId": "383f841028272f74a5cf9d2ba04db8fb",
+        "_tt_enable_cookie": "1",
+        "_ttp": "01KBAE003Q2WKF0ZMQY9B6TTDJ_.tt.1",
+        "Hm_lvt_8aa1693861618ac63989ae373e684811": "1764508042",
+        "HMACCOUNT": "DFDBCA41CF979AA4",
+        "_c_WBKFRo": "JUCPzG2Ilh2FQClDpJdRBeoPNVFofQj0byVLcWDw",
+        "_nb_ioWEgULi": "",
+        "_gcl_au": "1.1.755950418.1764508036.1707513614.1764508056.1764508055",
+        "Hm_lpvt_8aa1693861618ac63989ae373e684811": "1764534397",
+        "ttcsid": "1764534398436::DrdrVaWPWIXNQ3AN328G.2.1764534409801.0",
+        "ttcsid_CM9SHDBC77U4KJBR96OG": "1764534398434::DMuWVkWL08hapLHmaBnm.2.1764534409802.1",
+        "_ga_Q21FRKKG88": "GS2.1.s1764534395$o2$g1$t1764534415$j40$l0$h0",
+        "_uetsid": "7e930b10cded11f09c690fd40f958bd1",
+        "_uetvid": "7e9330c0cded11f087dc0363f82b728d"
+      },
+      "localStorage": {
+        "_uetvid_exp": "Fri, 25 Dec 2026 20:26:55 GMT",
+        "device_uuid": "4b82670d1b481fbeea83079fed4ceccc1764534389479",
+        "topicsLastReferenceTime": "1764534415479",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":5,\"timeouts\":0,\"creationTimeMs\":1764534415404},\"expires\":1772310415404}}",
+        "phonePrefix": "55",
+        "_uetsid": "7e930b10cded11f09c690fd40f958bd1",
+        "HOME_SEARCH_GUIDE": "true",
+        "lastExternalReferrerTime": "1764534397326",
+        "getClaimModal": "true",
+        "_uetsid_exp": "Mon, 01 Dec 2025 20:26:55 GMT",
+        "currency": "BRL",
+        "_uetvid": "7e9330c0cded11f087dc0363f82b728d",
+        "lastExternalReferrer": "empty",
+        "phoneRegion": "BR",
+        "region": "BR",
+        "_l_KPLiPs": "ICzJhSo8yg34W7pdqu4ZghwGD89IgXtQABR0gNnMAn",
+        "guild-video-player-state": "{\"isPlaying\":false,\"currentTime\":0,\"volume\":1,\"isMuted\":false,\"duration\":0,\"isLoading\":true}",
+        "language": "pt-BR",
+        "Hm_lvt_8aa1693861618ac63989ae373e684811": "1796070397264|1764508042"
+      },
+      "sessionStorage": {
+        "Hm_unsent_8aa1693861618ac63989ae373e684811": "[\"hm.baidu.com/hm.gif?hca=DFDBCA41CF979AA4&cc=1&ck=1&cl=24-bit&ds=1366x768&vl=579&ep=16352%2C11913&et=3&ja=0&ln=pt-br&lo=0<=1764508042&rnd=1822823752&si=8aa1693861618ac63989ae373e684811&v=1.3.2&lv=2&sn=4522&r=0&ww=1034&u=https%3A%2F%2Fwww.kalodata.com%2Fshop\"]",
+        "Hm_lpvt_8aa1693861618ac63989ae373e684811": "1764534397",
+        "pageListCategory-dateRange": "[\"2025-10-30\",\"2025-11-28\"]",
+        "pageList-shop": "{\"pageNo\":1,\"pageSize\":10,\"sorter\":{\"field\":\"revenue\",\"order\":\"descend\"},\"searchWord\":{}}",
+        "tt_appInfo": "{\"platform\":\"pc\"}",
+        "pre_pathname": "/shop",
+        "tt_sessionId": "\"ddabca00-ce2a-11f0-8de7-b83fd2e3e8a2::rS7KPALI5IDGJDLUuTbp\"",
+        "pageList-cateValue": "{}",
+        "cur_pathname": "/explore",
+        "tt_pixel_session_index": "{\"index\":1,\"main\":0}",
+        "preSpm": "wwwkalodata./explore.top_menu",
+        "_bl_sid": "Lgm0RiUymgn6s872ez2zj129dXbz",
+        "_cltk": "ome63b"
+      }
     }
   }
 }
