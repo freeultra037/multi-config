@@ -2104,6 +2104,78 @@
       ],
       "localStorage": {},
       "sessionStorage": {}
+    },
+    "higgsfield_universal": {
+      "cookies": [
+        {
+          "domain": ".higgsfield.ai",
+          "expiration_time": 1795906202,
+          "http_only": "0",
+          "name": "hf-first-visit-at",
+          "path": "/",
+          "same_site": "1",
+          "secure": "0",
+          "value": "1763908537609"
+        },
+        {
+          "domain": ".higgsfield.ai",
+          "expiration_time": 1795906202,
+          "http_only": "0",
+          "name": "$-id",
+          "path": "/",
+          "same_site": "1",
+          "secure": "0",
+          "value": "9666265a-0dc1-49e1-b8c4-29b4815fa7d3"
+        },
+        {
+          "domain": ".higgsfield.ai",
+          "expiration_time": 1799087672,
+          "http_only": "0",
+          "name": "__client_uat",
+          "path": "/",
+          "same_site": "1",
+          "secure": "1",
+          "value": "1764370182"
+        },
+        {
+          "domain": "higgsfield.ai",
+          "expiration_time": 0,
+          "http_only": "0",
+          "name": "clerk_active_context",
+          "path": "/",
+          "same_site": "-1",
+          "secure": "1",
+          "value": "sess_367uy99ICKWWRlMCCEZDuWm7mmW:org_35sqPVNUI1XQI5LM4aZgE4JagS6"
+        },
+        {
+          "domain": "higgsfield.ai",
+          "expiration_time": 1796063679,
+          "http_only": "0",
+          "name": "__session",
+          "path": "/",
+          "same_site": "1",
+          "secure": "1",
+          "value": "eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDExMUFBQSIsImtpZCI6Imluc18ydW9tNzA0cXE5M2twYnpWTGVRV1AybHlSaDciLCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwczovL2hpZ2dzZmllbGQuYWkiLCJlbWFpbCI6ImZpZWxkYW5pbWFjYW9AZ21haWwuY29tIiwiZXhwIjoxNzY0NTI3NjI0LCJmdmEiOlsyNjIzLC0xXSwiaWF0IjoxNzY0NTI3NTY0LCJpc3MiOiJodHRwczovL2NsZXJrLmhpZ2dzZmllbGQuYWkiLCJqdGkiOiIyODdjNjcxNGUyYmMwNjQxZmUxNCIsIm5iZiI6MTc2NDUyNzU1NCwib3JnX2lkIjoib3JnXzM1c3FQVk5VSTFYUUk1TE00YVpnRTRKYWdTNiIsIm9yZ19wZXJtaXNzaW9ucyI6WyJvcmc6YXBpa2V5czptYW5hZ2UiLCJvcmc6c3NvOm1hbmFnZSJdLCJvcmdfcm9sZSI6Im9yZzphZG1pbiIsIm9yZ19zbHVnIjoibmV3LXdvcmtzcGFjZS0xNzYzOTA5MTAyIiwic2lkIjoic2Vzc18zNjd1eTk5SUNLV1dSbE1DQ0VaRHVXbTdtbVciLCJzdHMiOiJhY3RpdmUiLCJzdWIiOiJ1c2VyXzM1c3BQOXdEc0hxYVBqcUUwTndyVkRiWXROSiJ9.FXLEyG_skDWBsXbEIyZ30Zvr0Nnl1zooJjEMlfHXofEKAcA0Qi78XiTkevAC_Mt4uOQh83EhELmJ7bTMN5UsH3GHhv8OU5vTmRdayDBO6N9zPkbu4uHlnVydsloNYMrIR2_vPDD5CnTo-PZGfwke-1X98x41GbhEXDD00vb8miYKtlNuI1aycR-sHyMKc9Z9EZNQ8mxpvkerrVaJGThJD-WBntcOYU4oTZSyFOARKJ5RUPnVwDakt8VPoxroB-P4hJGhPYpdihoWfRI6jXMg1abhW6rtoC8uofRAOLhggYXceOcAz8e11A_b9z7w0kpEiOUG01DoSDibAJyjVTdyQw"
+        },
+        {
+          "domain": "higgsfield.ai",
+          "expiration_time": 1796063679,
+          "http_only": "0",
+          "name": "__session_FQWayshe",
+          "path": "/",
+          "same_site": "1",
+          "secure": "1",
+          "value": "eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDExMUFBQSIsImtpZCI6Imluc18ydW9tNzA0cXE5M2twYnpWTGVRV1AybHlSaDciLCJ0eXAiOiJKV1QifQ.eyJhenAiOiJodHRwczovL2hpZ2dzZmllbGQuYWkiLCJlbWFpbCI6ImZpZWxkYW5pbWFjYW9AZ21haWwuY29tIiwiZXhwIjoxNzY0NTI3NjI0LCJmdmEiOlsyNjIzLC0xXSwiaWF0IjoxNzY0NTI3NTY0LCJpc3MiOiJodHRwczovL2NsZXJrLmhpZ2dzZmllbGQuYWkiLCJqdGkiOiIyODdjNjcxNGUyYmMwNjQxZmUxNCIsIm5iZiI6MTc2NDUyNzU1NCwib3JnX2lkIjoib3JnXzM1c3FQVk5VSTFYUUk1TE00YVpnRTRKYWdTNiIsIm9yZ19wZXJtaXNzaW9ucyI6WyJvcmc6YXBpa2V5czptYW5hZ2UiLCJvcmc6c3NvOm1hbmFnZSJdLCJvcmdfcm9sZSI6Im9yZzphZG1pbiIsIm9yZ19zbHVnIjoibmV3LXdvcmtzcGFjZS0xNzYzOTA5MTAyIiwic2lkIjoic2Vzc18zNjd1eTk5SUNLV1dSbE1DQ0VaRHVXbTdtbVciLCJzdHMiOiJhY3RpdmUiLCJzdWIiOiJ1c2VyXzM1c3BQOXdEc0hxYVBqcUUwTndyVkRiWXROSiJ9.FXLEyG_skDWBsXbEIyZ30Zvr0Nnl1zooJjEMlfHXofEKAcA0Qi78XiTkevAC_Mt4uOQh83EhELmJ7bTMN5UsH3GHhv8OU5vTmRdayDBO6N9zPkbu4uHlnVydsloNYMrIR2_vPDD5CnTo-PZGfwke-1X98x41GbhEXDD00vb8miYKtlNuI1aycR-sHyMKc9Z9EZNQ8mxpvkerrVaJGThJD-WBntcOYU4oTZSyFOARKJ5RUPnVwDakt8VPoxroB-P4hJGhPYpdihoWfRI6jXMg1abhW6rtoC8uofRAOLhggYXceOcAz8e11A_b9z7w0kpEiOUG01DoSDibAJyjVTdyQw"
+        }
+      ],
+      "localStorage": {
+        "hf:instruct:job-040925": "{\"generationType\":\"image\",\"jobSet\":null}",
+        "video_form_trace_id": "user_35spP9wDsHqaPjqE0NwrVDbYtNJ_1764002958506",
+        "__clerk_environment": "{\"value\":{\"object\":\"environment\",\"auth_config\":{\"claimed_at\":null,\"id\":\"\",\"object\":\"auth_config\",\"reverification\":false,\"single_session_mode\":true},\"display_config\":{\"object\":\"display_config\",\"after_create_organization_url\":\"https://beta.higgsfield.ai\",\"after_join_waitlist_url\":\"https://beta.higgsfield.ai\",\"after_leave_organization_url\":\"https://beta.higgsfield.ai\",\"after_sign_in_url\":\"https://beta.higgsfield.ai\",\"after_sign_out_all_url\":\"https://accounts.higgsfield.ai/sign-in\",\"after_sign_out_one_url\":\"https://accounts.higgsfield.ai/sign-in/choose\",\"after_sign_up_url\":\"https://beta.higgsfield.ai\",\"after_switch_session_url\":\"https://beta.higgsfield.ai\",\"application_name\":\"Higgsfield.AI\",\"branded\":false,\"captcha_heartbeat\":false,\"captcha_oauth_bypass\":[],\"captcha_provider\":\"turnstile\",\"captcha_public_key_invisible\":\"0x4AAAAAAAFV93qQdS0ycilX\",\"captcha_public_key\":\"0x4AAAAAAAWXJGBD7bONzLBd\",\"captcha_widget_type\":\"smart\",\"clerk_js_version\":\"5\",\"create_organization_url\":\"https://accounts.higgsfield.ai/create-organization\",\"favicon_image_url\":\"https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzJ2OFVMZ3NoWEJOWHI5Sm9hNU5xS09IS09sWiJ9\",\"google_one_tap_client_id\":\"565486769470-fhjhtkgh7hbrcsd4mt0632cmj0io1phm.apps.googleusercontent.com\",\"home_url\":\"https://beta.higgsfield.ai\",\"id\":\"display_config_2uom6sBps6TfltUnp5TAACaJfXK\",\"instance_environment_type\":\"production\",\"logo_image_url\":\"https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzJ2OFVMTVJzR2tkeEpkMFNBY0V4dE5EWmgyVyJ9\",\"organization_profile_url\":\"https://accounts.higgsfield.ai/organization\",\"preferred_sign_in_strategy\":\"password\",\"privacy_policy_url\":\"\",\"show_devmode_warning\":false,\"sign_in_url\":\"https://accounts.higgsfield.ai/sign-in\",\"sign_up_url\":\"https://accounts.higgsfield.ai/sign-up\",\"support_email\":\"support@higgsfield.ai\",\"terms_url\":\"\",\"theme\":{\"buttons\":{\"font_color\":\"#ffffff\",\"font_family\":\"\\\"Source Sans Pro\\\", sans-serif\",\"font_weight\":\"600\"},\"general\":{\"color\":\"#6c47ff\",\"padding\":\"1em\",\"box_shadow\":\"0 2px 8px rgba(0, 0, 0, 0.2)\",\"font_color\":\"#151515\",\"font_family\":\"\\\"Source Sans Pro\\\", sans-serif\",\"border_radius\":\"0.5em\",\"background_color\":\"#ffffff\",\"label_font_weight\":\"600\"},\"accounts\":{\"background_color\":\"#ffffff\"}},\"user_profile_url\":\"https://accounts.higgsfield.ai/user\",\"waitlist_url\":\"https://accounts.higgsfield.ai/waitlist\"},\"id\":\"\",\"maintenance_mode\":false,\"client_debug_mode\":false,\"organization_settings\":{\"actions\":{\"admin_delete\":false},\"domains\":{\"enabled\":false,\"enrollment_modes\":[],\"default_role\":\"org:member\"},\"enabled\":true,\"max_allowed_memberships\":0},\"user_settings\":{\"actions\":{\"delete_self\":true,\"create_organization\":true,\"create_organizations_limit\":1},\"attributes\":{\"email_address\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":true,\"first_factors\":[\"email_code\"],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[\"email_code\"],\"verify_at_sign_up\":true,\"name\":\"email_address\"},\"phone_number\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"phone_number\"},\"username\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"username\"},\"web3_wallet\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"web3_wallet\"},\"first_name\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"first_name\"},\"last_name\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"last_name\"},\"password\":{\"enabled\":true,\"required\":true,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"password\"},\"authenticator_app\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"authenticator_app\"},\"ticket\":{\"enabled\":true,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"ticket\"},\"backup_code\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"backup_code\"},\"passkey\":{\"enabled\":false,\"required\":false,\"used_for_first_factor\":false,\"first_factors\":[],\"used_for_second_factor\":false,\"second_factors\":[],\"verifications\":[],\"verify_at_sign_up\":false,\"name\":\"passkey\"}},\"passkey_settings\":{\"allow_autofill\":true,\"show_sign_in_button\":true},\"password_settings\":{\"disable_hibp\":false,\"min_length\":8,\"max_length\":72,\"require_special_char\":false,\"require_numbers\":false,\"require_uppercase\":false,\"require_lowercase\":false,\"show_zxcvbn\":false,\"min_zxcvbn_strength\":0,\"enforce_hibp_on_sign_in\":true,\"allowed_special_characters\":\"!\\\"#$%&'()*+,-./:;<=>?@[]^_`{|}~\"},\"saml\":{\"enabled\":true},\"sign_in\":{\"second_factor\":{\"required\":false}},\"sign_up\":{\"captcha_enabled\":true,\"captcha_widget_type\":\"smart\",\"custom_action_required\":false,\"progressive\":true,\"mode\":\"public\",\"legal_consent_enabled\":false},\"social\":{\"oauth_apple\":{\"enabled\":true,\"required\":false,\"authenticatable\":true,\"block_email_subaddresses\":false,\"strategy\":\"oauth_apple\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Apple\",\"logo_url\":\"https://img.clerk.com/static/apple.png\"},\"oauth_google\":{\"enabled\":true,\"required\":false,\"authenticatable\":true,\"block_email_subaddresses\":true,\"strategy\":\"oauth_google\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Google\",\"logo_url\":\"https://img.clerk.com/static/google.png\"},\"oauth_microsoft\":{\"enabled\":true,\"required\":false,\"authenticatable\":true,\"block_email_subaddresses\":false,\"strategy\":\"oauth_microsoft\",\"not_selectable\":false,\"deprecated\":false,\"name\":\"Microsoft\",\"logo_url\":\"https://img.clerk.com/static/microsoft.png\"}}},\"commerce_settings\":{\"billing\":{\"stripe_publishable_key\":null,\"organization\":{\"enabled\":false,\"has_paid_plans\":false},\"user\":{\"enabled\":false,\"has_paid_plans\":false}}},\"api_keys_settings\":{\"user_api_keys_enabled\":false,\"orgs_api_keys_enabled\":false},\"protect_config\":{\"object\":\"protect_config\",\"id\":\"\"}},\"exp\":1764613937186}"
+      },
+      "sessionStorage": {
+        "flow-create-voice": "{\"type\":\"speech\",\"prompt\":null,\"enhance\":false,\"voiceId\":null,\"sfxVoiceId\":null,\"style\":60,\"speed\":1.1,\"stability\":30,\"similarityBoost\":90}"
+      }
     }
   }
 }
