@@ -7759,6 +7759,39 @@
       "sessionStorage": {
         "__rw-lgsbm": "Gen-4"
       }
+    },
+    "runwayml_02": {
+      "cookies": {
+        "runway_consent": "%7B%22v%22%3A1%2C%22analytics%22%3Atrue%2C%22ads%22%3Atrue%2C%22gpc%22%3Afalse%2C%22ts%22%3A1765214084447%7D",
+        "__stripe_mid": "736fb92c-e3b5-457e-b2c9-36bc98f757af18bca6",
+        "__stripe_sid": "f4d0dff2-b20a-44f8-8576-b209195a5117c7a4ba"
+      },
+      "localStorage": {
+        "PanelGroup:sizes:athena-turbo-inputs-panel": "{\"25,30\":[75,25],\"10,25,30\":[30,25,45]}",
+        "runwayBlockerState_persistent": "{\"timerActive\":false,\"timerEndTime\":0,\"promptBlocked\":false,\"detectedForbiddenWord\":null,\"blockedPromptsCount\":0,\"sessionCreationTime\":1765329911231,\"timestamp\":1765329911231}",
+        "ab.storage.serverConfig.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"s\":\"4.8.0\",\"l\":1739457103,\"e\":[],\"a\":[],\"p\":[],\"m\":21600,\"v\":\"BHjOBZQ_0S-Eo2jZFpdPnH6eb6hnHZtd_yeq3wqoBC_DT6SfSNdonh8e5Nxm-dsPjxpjfOkqYxlKhQKEfTvcU7g=\",\"c\":{},\"f\":{}}}",
+        "ab.storage.session_id_for_cached_metadata.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":\"d88c9703-9f3d-560d-3157-a8edcd813ac7\"}",
+        "ab.storage.sessionId.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"g\":\"d88c9703-9f3d-560d-3157-a8edcd813ac7\",\"e\":1765331713135,\"c\":1765329913136,\"l\":1765329913136}}",
+        "RW_USER_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDc3OTM4NDcsImVtYWlsIjoiYWRiaWxpemVyZmFAZ21haWwuY29tIiwiZXhwIjoxNzY3ODA2MTM0Ljg4OCwiaWF0IjoxNzY1MjE0MTM0Ljg4OCwic3NvIjpmYWxzZX0.6zO8iKY8dtxesx0PGPPQtuoqb8YP2HQFp4FrM_Ip3GA",
+        "ab.storage.signature.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":\"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGFnZSI6InByb2R1Y3Rpb24iLCJpYXQiOjE3NjUzMzAxNjgsImV4cCI6MTc2NTMzMzc2OCwiYXVkIjoiYnJhemUiLCJzdWIiOiI0Nzc5Mzg0NyJ9.H_SJsHuQc54EHxISnHiUK1wmhCh_H_Rrh7tDsGlNokvdm81W5nrX0497PijdBEu28U_nkz4L1V58gnc65cpSr85x148RcRKQM-TQwP6OATDF8vp6FokAaPl2JwVjcr9NofUyjpeEkoFQXZe1bEjrT4C_JSot006D4P3fOZqTTjYNfEPRguLFbhDWW65qHc-1_vLvNlLlNtoPOEyxrF3pR1nRnLazS6TmTLQbvMgRz2bnYSMS7tkAK1ZjOIhpvHlwlbmq0afOQ9WxAyNxSNJHXlYqs36a0HkDoFnaQf1YYnoHZAKEZN98pis0Iqi9ObD9VkKuxKWhHeF1vYimrtYCMw\"}",
+        "loglevel": "WARN",
+        "ab.storage.device.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"browser\":\"Chrome\",\"browser_version\":\"139\",\"os_version\":\"Windows\",\"resolution\":\"1366x768\",\"locale\":\"en-us\",\"time_zone\":\"America/Bahia\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"}}",
+        "ab.storage.triggers.ts.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":1765329944642}",
+        "rw__lastUsedTeamId": "{\"version\":2,\"lastUsedTeamId\":47793847,\"lastUsedEnterpriseTeamId\":null}",
+        "ab.storage.userId.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"g\":\"47793847\",\"c\":1765214136704,\"l\":1765329913137}}",
+        "ab.storage.sdk_metadata.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":[\"npm\"]}",
+        "ab.storage.deviceId.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"g\":\"aae0b150-8c57-c374-b5cb-31265ec7f8ce\",\"c\":1765214136685,\"l\":1765329913137}}",
+        "RW_PROD_localAppleUserRecords": "{}",
+        "ab.storage.messagingSessionStart.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":1765329913139}",
+        "isSidebarCollapsed": "true",
+        "ab.storage.triggers.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":[]}",
+        "ab.storage.lastReqToEndpoint.aba8cd35-35f9-49c2-b31e-a0352400f921": "{\"v\":{\"d\":1765329944058}}",
+        "PanelGroup:sizes:athena-inputs-panel": "{\"25,30\":[75,25],\"10,25,30\":[30,25,45]}",
+        "media-chrome-pref-muted": "false"
+      },
+      "sessionStorage": {
+        "__rw-lgsbm": "Gen-4"
+      }
     }
   }
 }
